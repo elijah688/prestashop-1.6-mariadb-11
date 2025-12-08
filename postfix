@@ -1,0 +1,6 @@
+rm /var/www/html/var/cache/*
+
+mkdir old
+mv modules/advancedeucompliance old
+
+/var/www/html/modules/ps_imageslider/images - slider homepage
